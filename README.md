@@ -7,6 +7,6 @@ I'm Parker, a full-stack web developer. I have a love for simplicity and correct
 
 - 🎨 Full-time as a frontend dev
 - 👨🏽‍💻 Code in JavaScript / TypeScript (Vue at work, Svelte for other projects)
-- 🦀 Learning Rust
+- 🦀 Rustacean
 - 🐘 Worked in Laravel (PHP) for a few years, but now use Adonis (NodeJS)
 - 👨‍👩‍👧‍👦 Have a growing family that keeps me excited about life
