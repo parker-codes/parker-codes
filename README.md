@@ -5,7 +5,7 @@
 ## Heyo 👋, 
 I'm Parker, a full-stack web developer. I have a love for simplicity and correctness, and I do my best to share as I learn.
 
-- 🎨 Full-time as a lead frontend engineer
+- 🎨 Lead Frontend Engineer [@Tidefi_DEX](https://twitter.com/Tidefi_DEX)
 - 👨🏽‍💻 Code in JavaScript / TypeScript (Vue and Svelte)
 - 🦀 Rustacean
 - 🐘 Worked in Laravel (PHP) for several years, but now use Adonis (NodeJS)
