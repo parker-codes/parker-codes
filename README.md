@@ -3,10 +3,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-parker.mcmullin01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parker.mcmullin01@gmail.com)](mailto:parker.mcmullin01@gmail.com)
 
 ## Heyo 👋, 
-I'm Parker, a full-stack web developer. I have a love for simplicity and correctness, and I do my best to share as I learn.
+
+I'm a senior full-stack (frontend-leaning) dev. I have years of experience leading teams to create robust apps (desktop/mobile/web) and websites in many industries.
 
 - 🎨 Lead Frontend Engineer [@Tidefi_DEX](https://twitter.com/Tidefi_DEX)
-- 👨🏽‍💻 Code in JavaScript / TypeScript (Vue and Svelte)
-- 🦀 Rustacean
-- 🐘 Worked in Laravel (PHP) for several years, but now use Adonis (NodeJS)
-- 👨‍👩‍👧‍👦 Have a growing family that keeps me excited about life
+- 👨🏽‍💻 Code in JavaScript / TypeScript (Vue and Svelte), Node, and Rust
+- ⚡️ I am particularly skilled in accessibility, systems design, actor communication, and mentoring
+- 👨‍👩‍👧‍👦 Have an amazing family that keeps me excited about life
