@@ -6,7 +6,7 @@
 
 I'm a senior full-stack (frontend-leaning) dev. I have years of experience leading teams to create robust apps (desktop/mobile/web) and websites in many industries.
 
-- 🎨 Lead Frontend Engineer [@Tidefi_DEX](https://twitter.com/Tidefi_DEX)
-- 👨🏽‍💻 Code in JavaScript / TypeScript (Vue and Svelte), Node, and Rust
+- 🎨 Principal UI Engineer [@crabnebula-dev]([https://twitter.com/Tidefi_DEX](https://github.com/crabnebula-dev))
+- 👨🏽‍💻 Code in JavaScript / TypeScript (Svelte, Vue, Solid, Node), as well as Rust
 - ⚡️ I am particularly skilled in accessibility, systems design, actor communication, and mentoring
 - 👨‍👩‍👧‍👦 Have an amazing family that keeps me excited about life
