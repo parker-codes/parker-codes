@@ -6,7 +6,7 @@
 
 I'm a principal full-stack (frontend-leaning) dev. I have years of experience leading teams to create robust apps (desktop/mobile/web) and websites in many industries.
 
-- 🎨 Principal UI Engineer [@crabnebula-dev]([https://twitter.com/Tidefi_DEX](https://github.com/crabnebula-dev))
-- 👨🏽‍💻 Code in JavaScript / TypeScript (Svelte, Vue, Solid, Node), as well as Rust
-- ⚡️ I am particularly skilled in accessibility, systems design, actor communication, and mentoring
-- 👨‍👩‍👧‍👦 Have an amazing family that keeps me excited about life
+- 👨🏽‍💻    Director of Technology at [5 Guys Roofing](https://fiveguysroofing.com/)
+- </>  Code in JavaScript / TypeScript (Svelte, Vue, Solid, Node), as well as Rust
+- ⚡️    I am particularly skilled in accessibility, systems design, actor communication, and mentoring
+- 👨‍👩‍👧‍👦    Have an amazing family that keeps me excited about life
